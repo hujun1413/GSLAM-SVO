@@ -1,2 +1,6 @@
 build
 *.user
+*~
+.vscode/*
+evaluation.txt
+eva_traj.txt
